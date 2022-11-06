@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <div className="h-screen bg-gradient-to-b from-gray-900 to-slate-800 flex flex-col text-white">
 
-        <h1 className=" text-white text-xl">Tarek</h1>
+        <h1 className=" text-white text-8xl">Tarek</h1>
 
 
 
